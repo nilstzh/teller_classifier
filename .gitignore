@@ -24,3 +24,7 @@ teller_classifier-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Data files
+/data/input.json
+/data/output.json
